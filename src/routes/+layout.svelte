@@ -16,15 +16,13 @@
 
   // Navigation links for the header (matching real NYCity News Service)
   const navLinks = [
-    { label: 'Arts & Culture', href: 'https://www.nycitynewsservice.com/nycns_topics/arts-culture/' },
-    { label: 'Business', href: 'https://www.nycitynewsservice.com/nycns_topics/business/' },
-    { label: 'Education', href: 'https://www.nycitynewsservice.com/nycns_topics/education/' },
-    { label: 'Environment', href: 'https://www.nycitynewsservice.com/nycns_topics/environment/' },
-    { label: 'Health', href: 'https://www.nycitynewsservice.com/nycns_topics/health/' },
-    { label: 'Housing', href: 'https://www.nycitynewsservice.com/nycns_topics/housing/' },
-    { label: 'Politics', href: 'https://www.nycitynewsservice.com/nycns_topics/politics/' },
-    { label: 'El Deadline', href: 'https://eldeadline.nycitynewsservice.com/' },
-    { label: 'The Bronx', href: 'https://motthavenherald.com/' },
+    { label: 'Emma Murphy', href: 'https://www.linkedin.com/in/emma-murphy-aa704422a/' },
+    { label: 'Katie Baughman', href: 'https://www.linkedin.com/in/katie-baughman-15281b256/' },
+    { label: 'Ave Moore', href: 'https://www.linkedin.com/in/ava-moore-b35887291/' },
+    { label: 'Gabriela Toscano', href: 'https://www.linkedin.com/in/gabrielamtoscano/' },
+    { label: 'Alice Gaalswyk', href: 'https://www.linkedin.com/in/alice-gaalswyk-7b5031225/' },
+    { label: 'Lusa Holmstrom', href: 'https://www.linkedin.com/in/lusaholmstrom/' },
+  
   ];
 </script>
 

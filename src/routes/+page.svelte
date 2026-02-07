@@ -9,9 +9,9 @@
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
+  let headline = 'The Blue House Girls';
   let byline = 'NYCity News Service';
-  let pubDate = '2026-01-31';
+  let pubDate = '2026-02-07';
 
   // Related stories
   const relatedStories = [
@@ -39,49 +39,42 @@
 
   <!-- Lead Image: Animated gif of students at the journalism school -->
   <Image
-    src="/example-photo.gif"
-    alt="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
-    caption="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
-    credit="Craig Newmark Graduate School of Journalism"
+    src="Screenshot 2026-02-07 at 2.24.28 PM.png"
+    alt="Just days before moving out of 564 East 191st St., Emma, Ava, Katie, Gaby, Alice, and Lusa pose for Graduation pictures."
+    caption="Just days before moving out of 564 East 191st St., Emma, Ava, Katie, Gaby, Alice, and Lusa pose for Graduation pictures."
+    credit="Delainy Winter"
   />
 
   <!-- Article Body: The main story text with proper typography -->
   <ArticleBody>
     <p>
-      At the Craig Newmark Graduate School of Journalism at the City University of New York, change is in our DNA. That comes of being born in 2006, as the digital revolution was transforming our profession in ways none of us could have imagined.
+      Less than a year post grad, here's what the girls are up to:
     </p>
 
     <p>
-      We fashioned a school to teach the latest storytelling, entrepreneurial, and technological skills alongside reporting, writing, and ethics. Beyond that, we’ve crafted a culture that spurns complacency, that isn’t afraid to pivot before the ground under us shifts.
+      Emma is getting her masters degree in journalism from the Craig Newmark Graduate School of Journalism at CUNY and also works as an editorial assistant at People Inc..
     </p>
 
     <p>
-      Our mission is to serve the public interest – by training new journalists from varied economic, racial, and cultural backgrounds who will bring much-needed diversity to newsrooms, by helping mid-career journalists retool their skills, and by partnering with other media organizations to find new paths to excellence.
+      Ava is conducting nueroscience research at Northeastern University.
     </p>
 
     <p>
-      Our low tuition rates, along with the added backing of private donors, allow candidates for our master’s degrees in journalism and engagement journalism to receive a world-class education at an affordable price. We also offer a unique bilingual master’s in journalism for students fluent in English and Spanish.
+      Katie is attening Harvard Law School.
     </p>
 
     <p>
-      Our three media centers provide research, training, thought leadership, industry meet-ups, and financial support for quality journalistic work.
+      Gaby works in marketing for AMC Networks.
     </p>
 
     <p>
-      We also offer a robust professional education program through regular evening and weekend workshops. And we support in-depth reporting projects of professional journalists through fellowship grants.
+      Alice is a paralegal.
     </p>
 
     <p>
-      Classes are led by accomplished full-time faculty and adjuncts, who tap their networks to help students and graduates find internships, freelance opportunities and — the ultimate prize — jobs.
+      Lusa is a hostess at Moxy in Williamsburg.
     </p>
 
-    <p>
-      At a time when our profession is reeling from financial pressures and lack of trust, the Newmark Graduate School of Journalism is committed to producing the next generation of skilled, ethically minded, and diverse journalists.
-    </p>
-
-    <p>
-      We invite you to be part of our world.
-    </p>
   </ArticleBody>
 
   <!-- Related Stories: Links to other articles -->
